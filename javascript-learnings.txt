@@ -37,3 +37,14 @@ Calculations with floats are sometimes inaccurate.
 - When working with money
 1. Do the calculations in cents
 2. Convert back to dollars.
+
+Strings also follow the order of operations.
+\" = double quote that is just text
+\n = newline character
+
+3 ways to create a string:
+1. '....'
+2. "...."
+3. `....` = template strings
+interpolation = insert value directly into the a string
+${} = insert value directly into string
