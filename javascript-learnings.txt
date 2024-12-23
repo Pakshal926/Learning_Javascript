@@ -1,0 +1,39 @@
+what is javascript ???
+-> a technology that we use to create websites.
+- giving instructions to a computer [ code ]
+- the computer follows our instructions [ running the code ]
+
+Syntax
+- rules that we have to follow when using 
+  a programming language
+- similar to english ( grammar )
+- in programming, we have to follow the rules 
+  fo  syntax exactly.
+
+
+Order of operations
+
+2 - 2  --|
+2 + 2    | --- Operations
+2 * 2    |     characters in the middle are called [operators]
+2 / 2  --|
+
+* / - are done first
+- + - are done after (order precedence)
+
+* / have same priority
+2 * 3 / 5 then calculate from the left to right same for + -
+
+In programming,
+2, 3, 4 = integers
+2.23, 2.5 = floats
+
+- computers have a problem working with floats.
+How do we avoid this problem?
+- Best practices when calculating money
+= calculate in  cents instead of dollars
+
+Calculations with floats are sometimes inaccurate.
+- When working with money
+1. Do the calculations in cents
+2. Convert back to dollars.
