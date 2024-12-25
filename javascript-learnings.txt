@@ -1,3 +1,7 @@
+HTML = creates the content
+CSS = changes the appearance
+JavaScript = makes it interactive
+
 what is javascript ???
 -> a technology that we use to create websites.
 - giving instructions to a computer [ code ]
