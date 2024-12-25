@@ -48,3 +48,9 @@ Strings also follow the order of operations.
 3. `....` = template strings
 interpolation = insert value directly into the a string
 ${} = insert value directly into string
+
+
+What should we use to create string ?
+1. Use '...' by default.
+2. If we need interpolation, multi-line strings
+   use `...`.

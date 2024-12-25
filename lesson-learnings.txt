@@ -5,3 +5,12 @@
 4. Calculations using the floats can be inaccurate.
 5. Math.round()
 6. How to search for code on our own. 
+
+
+- Things learned in the lesson-3
+1. String = text
+2. Use strings and numbers together
+3. Three ways to create strings:
+    '...', "...", `...`   (template strings)
+4. Escape characters: \' \n 
+5. Interpolation, multi-line strings.
