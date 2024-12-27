@@ -14,3 +14,12 @@
     '...', "...", `...`   (template strings)
 4. Escape characters: \' \n 
 5. Interpolation, multi-line strings.
+
+
+- Things learned in the lesson-5
+1. Variables = a way to save values.
+2. Re-assign a Variable.
+3. Created the cart-quantity feature.
+4. Shortcuts for re-assigning a Variable.
+5. Naming conventions and best practices.
+6. 3 ways to create variable - let, const and var.
