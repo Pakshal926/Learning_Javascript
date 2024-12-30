@@ -23,3 +23,12 @@
 4. Shortcuts for re-assigning a Variable.
 5. Naming conventions and best practices.
 6. 3 ways to create variable - let, const and var.
+
+
+- Things learned in the lesson-6
+1. Boolean values (true, false)
+2. If-statements
+3. Comparison Operators (>, <, >=, <=, ===, !==)
+4. Algorithms, and created Rock Paper Scissors
+5. Truthy and Falsy values
+6. Shortcuts for if-statements (ternary, guard and default)
