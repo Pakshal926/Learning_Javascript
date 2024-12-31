@@ -32,3 +32,10 @@
 4. Algorithms, and created Rock Paper Scissors
 5. Truthy and Falsy values
 6. Shortcuts for if-statements (ternary, guard and default)
+
+
+- Things learned in the lesson-7
+1. Functions = let us reuse code.
+2. Return = get a value out of a function.
+3. Parameters = put values into a function.
+4. Improved the code for Rock, Paper, Scissors.
