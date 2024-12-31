@@ -58,3 +58,15 @@ What should we use to create string ?
 1. Use '...' by default.
 2. If we need interpolation, multi-line strings
    use `...`.
+  
+
+What is a function ??
+Ans. A function lets us reuse code.
+
+Rules for Parameter Names
+1. Can't use special words.
+   Example: function
+2. Can't start with a number.
+3. Can't use special characters
+   except: $_
+Best practice = use camelCase
