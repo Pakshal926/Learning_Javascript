@@ -70,3 +70,21 @@ Rules for Parameter Names
 3. Can't use special characters
    except: $_
 Best practice = use camelCase
+
+
+Bracket Notation
+- lets us use properties that don't work 
+  with dot notation.
+
+
+JSON - JavaScript Object Notation
+- a syntax
+- similar to JavaScript objects
+- but with less features
+We use JSON
+- when we send data between computers
+- when we store data
+
+Built-in JSON Object:
+Convert:
+JavaScript Object(parse) <----> JSON(stringify)

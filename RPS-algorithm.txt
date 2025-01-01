@@ -1,0 +1,6 @@
+Algorithm (Rock Paper Scissors)
+When we click a button:
+1. Computer randomly selects a move.
+2. Compare moves to get result.
+3. Update a score.
+4. Display score and result in a pop-up.
