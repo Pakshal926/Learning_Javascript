@@ -47,3 +47,12 @@
 3. Built-in Objects (JSON, localStorage).
 4. More details (null, auto-boxing, references).
 5. Shortcuts (destructuring, shorthand property, shorthand method).
+
+
+- Things learned in the lesson-9
+1. Document Object Model (DOM)
+2. document.querySelector(...)
+3. innerHTML
+4. 3 projects using the DOM
+5. onkeydown="..."
+6. More details about strings - window object.

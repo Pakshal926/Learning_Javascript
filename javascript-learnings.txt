@@ -88,3 +88,13 @@ We use JSON
 Built-in JSON Object:
 Convert:
 JavaScript Object(parse) <----> JSON(stringify)
+
+document.querySelector() 
+- let us get any element from the page and put it inside JavaScript.
+class attribute = adds a label
+
+DOM combines JS and HTML together
+It gives JS full control of the webpage.
+
+clicks, keydowns => events
+onclick, onkeydown => event-listeners
