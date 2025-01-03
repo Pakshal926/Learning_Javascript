@@ -98,3 +98,7 @@ It gives JS full control of the webpage.
 
 clicks, keydowns => events
 onclick, onkeydown => event-listeners
+
+CSS Selector = which elements we want to style
+space on the outside = margin.
+space in the inside = padding.
