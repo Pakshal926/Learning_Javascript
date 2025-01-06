@@ -102,3 +102,15 @@ onclick, onkeydown => event-listeners
 CSS Selector = which elements we want to style
 space on the outside = margin.
 space in the inside = padding.
+
+array:
+  - another type of value
+  - special type of Object
+  - represents a list of values
+
+loops = let us run some code over and over.
+
+while vs for loops:
+Standard loop => for
+Non-Standard loop => while
+
