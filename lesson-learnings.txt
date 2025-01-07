@@ -63,3 +63,13 @@
 2. .classList property.
 3. Finished Rock Paper Scissors.
 4. Organize JavaScript and CSS code into seperate files.
+
+
+- Things learned in the lesson-11
+1. Arrays = list of values.
+2. Loops (while loop, for loop)
+3. Accumulator Pattern.
+4. Created a Todo List project.
+5. Arrays are references, destructuring.
+6. More features of loops:
+   break, continue, loops inside a function.

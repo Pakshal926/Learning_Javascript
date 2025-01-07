@@ -113,4 +113,8 @@ loops = let us run some code over and over.
 while vs for loops:
 Standard loop => for
 Non-Standard loop => while
+arrays are reference.
 
+More details about loops:
+1. break = exit a loop early.
+2. continue = skip 1 iteration.
