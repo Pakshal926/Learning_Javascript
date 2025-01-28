@@ -73,3 +73,12 @@
 5. Arrays are references, destructuring.
 6. More features of loops:
    break, continue, loops inside a function.
+
+
+- Things learned in the lesson-12
+1. Functions are values.
+2. setTimeout(), setInterval()
+3. .forEach()
+4. Arrow functions, .addEventListener()
+5. .filter(), .map()
+6. Closure
